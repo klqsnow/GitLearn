@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="651f0a90-064c-48bf-837d-35e2fcbd6d73" name="Default Changelist" comment="update js main">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="651f0a90-064c-48bf-837d-35e2fcbd6d73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />

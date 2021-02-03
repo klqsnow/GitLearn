@@ -1,2 +1,3 @@
 let b = 10;
-console.log(b);
+let c = 100;
+console.log(b,c);
